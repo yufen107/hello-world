@@ -11,7 +11,7 @@ info:
     name:       Nina
     email:      happykia530@gmail.com
 # during dev, should point to your local machine e.g. event-hub-dev.hosted.exosite.io
-host: aa.m.pipedream.net
+host: mm.pipedream.net
 basePath: /
 x-exosite-health-path: /
 schemes:
